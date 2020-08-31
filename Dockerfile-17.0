@@ -1,4 +1,4 @@
-FROM nextcloud:17.0.3-apache
+FROM nextcloud:17.0.9-apache
 
 RUN set -ex; \
     \
